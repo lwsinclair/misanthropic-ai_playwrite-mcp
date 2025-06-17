@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-misanthropic-ai-playwrite-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-misanthropic-ai-playwrite-mcp)
+
 # playwright-mcp
 
 Playwright wrapper for MCP (Model Context Protocol). This server enables LLM-powered clients to control a browser for automation tasks.
